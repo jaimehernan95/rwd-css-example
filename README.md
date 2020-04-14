@@ -11,7 +11,7 @@
  
  ## Example of RWD using a Video as intro
  
- **_The Website still can be used as a template it still underconstruction_**    **:)**
+ **_The Website still underconstructioncan; however,  it can be used as a template it still underconstruction_**    **:)**
  
 **Intro**
 <img width="900" alt="RWD using a Video as intro" src="https://github.com/jaimehernan95/rwd-css-example/blob/master/printscreen/1.png">
